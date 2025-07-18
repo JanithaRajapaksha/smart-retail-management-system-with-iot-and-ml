@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>lowerlevel_500724df-bdcf-11ef-8c46-08bfb8094c99.jpg</filename>
+	<path>D:\IDP\newTFOD\data\images\lowerlevel_500724df-bdcf-11ef-8c46-08bfb8094c99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lower level</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>17</ymin>
+			<xmax>368</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

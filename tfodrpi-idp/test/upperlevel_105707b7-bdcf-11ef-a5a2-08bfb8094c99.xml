@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>upperlevel_105707b7-bdcf-11ef-a5a2-08bfb8094c99.jpg</filename>
+	<path>D:\IDP\newTFOD\data\images\upperlevel_105707b7-bdcf-11ef-a5a2-08bfb8094c99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>upper level</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>81</ymin>
+			<xmax>425</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

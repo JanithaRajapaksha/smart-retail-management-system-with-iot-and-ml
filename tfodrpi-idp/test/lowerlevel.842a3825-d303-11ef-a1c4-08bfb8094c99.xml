@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lowerlevel</folder>
+	<filename>lowerlevel.842a3825-d303-11ef-a1c4-08bfb8094c99.jpg</filename>
+	<path>D:\IDP\TFOD\Tensorflow\workspace\images\collectedimages\lowerlevel\lowerlevel.842a3825-d303-11ef-a1c4-08bfb8094c99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lower level</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>68</ymin>
+			<xmax>465</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
